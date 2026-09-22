@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    real moeda10, moeda25, moeda50
+    inteiro moeda10, moeda25, moeda50
 
     escreva("Qual a quantidade de moedas de R$0,10 você tem? ")
     leia(moeda10)
